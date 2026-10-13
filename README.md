@@ -209,4 +209,4 @@ ALLPlayer is a full free version with all features unlocked and all updates incl
 Get started with ALLPlayer today and transform your multimedia experience! Enjoy the full version with all features included and join our community of satisfied users.
 
 ---
-**Last updated:** 2026-10-12 17:33:41 UTC
+**Last updated:** 2026-10-13 00:21:05 UTC
